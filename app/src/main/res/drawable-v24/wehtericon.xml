@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <corners
+        android:bottomRightRadius="50dp"
+        android:bottomLeftRadius="50sp"
+        android:topRightRadius="50sp"
+        android:topLeftRadius="50dp"/>
+
+    <solid
+        android:color="#2C95E8"/>
+
+    <item
+        android:drawable="@drawable/wethericon"
+        android:width="20dp"
+        android:height="20dp"/>
+
+
+
+</layer-list>
